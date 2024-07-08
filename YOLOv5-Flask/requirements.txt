@@ -1,6 +1,6 @@
 absl-py==0.13.0
 cachetools==4.2.2
-certifi==2021.5.30
+certifi==2024.7.4
 charset-normalizer==2.0.4
 click==8.0.1
 cycler==0.10.0
